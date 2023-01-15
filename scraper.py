@@ -1,6 +1,6 @@
-from Table_Scraper import Scraper
+from TableScraper import Scraper
 
 table = Scraper()
 table.extract()
-print(table.dataframe(3))
-table.save(3)
+print(table.dataframe(18))
+table.save(18)
