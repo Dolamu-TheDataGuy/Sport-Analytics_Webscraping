@@ -29,7 +29,8 @@ class Scraper:
         self.table = None
 
     def extract(self):
-        """Function to extract Premier League table information"""
+        """Function to extract Premier League table information
+        """
         r = self.session.get(self.baseurl, headers=self.headers)
         soup = bs(r.text, 'html.parser')
         league_table = soup.find('table', class_='standing-table__table')
