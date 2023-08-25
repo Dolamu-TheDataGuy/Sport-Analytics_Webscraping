@@ -60,4 +60,4 @@ class Scraper:
 
     def save(self, i):
         """Function to save Premier league table to a csv file"""
-        self.table.to_csv(f'PL_GW{i}.csv', index=False)
+        self.table.to_csv(f'2023/2024/PL_GW{i}.csv', index=False)
