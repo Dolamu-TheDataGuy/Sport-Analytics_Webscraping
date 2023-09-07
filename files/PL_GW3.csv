@@ -1,0 +1,21 @@
+Position,Teams,Games_Played,Games_Won,Games_Drawn,Games_Lost,GF,GA,GD,Points
+1,West Ham United,4,3,1,0,5,4,5,10
+2,Manchester City,3,3,0,0,5,1,5,9
+3,Tottenham Hotspur,3,2,1,0,4,2,4,7
+4,Liverpool,3,2,1,0,3,3,3,7
+5,Arsenal,3,2,1,0,2,3,2,7
+6,Brighton and Hove Albion,3,2,0,1,4,5,4,6
+7,Aston Villa,3,2,0,1,2,6,2,6
+8,Manchester United,3,2,0,1,0,4,0,6
+9,Brentford,3,1,2,0,3,3,3,5
+10,Chelsea,3,1,1,1,1,4,1,4
+11,Crystal Palace,3,1,1,1,0,2,0,4
+12,Fulham,3,1,1,1,-2,5,-2,4
+13,Newcastle United,3,1,0,2,2,4,2,3
+14,Nottingham Forest,3,1,0,2,-1,6,-1,3
+15,Wolverhampton Wanderers,3,1,0,2,-3,5,-3,3
+16,Bournemouth,3,0,1,2,-4,6,-4,1
+17,Sheffield United,3,0,0,3,-3,5,-3,0
+18,Burnley,2,0,0,2,-5,6,-5,0
+19,Everton,3,0,0,3,-6,6,-6,0
+20,Luton Town,3,0,0,3,-7,9,-7,0

@@ -4,5 +4,7 @@ from TableScraper import Scraper
 if __name__ == "__main__":
     table = Scraper()
     table.extract()
-    print(table.dataframe(2))
-    table.save(3)
+    table.to_json(4)
+    print(table.dataframe(4))
+    table.save(4)
+
