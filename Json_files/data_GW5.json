@@ -1,0 +1,222 @@
+{
+     "1": {
+          "Position": "1",
+          "Club_Name": "Manchester City",
+          "Games_Played": "5",
+          "Games_Won": "5",
+          "Games_Lost": "0",
+          "Goals_Scored": "14",
+          "Goals_Conceded": "3",
+          "Goal_difference": "11",
+          "Points": "15"
+     },
+     "2": {
+          "Position": "2",
+          "Club_Name": "Tottenham Hotspur",
+          "Games_Played": "5",
+          "Games_Won": "4",
+          "Games_Lost": "0",
+          "Goals_Scored": "13",
+          "Goals_Conceded": "5",
+          "Goal_difference": "8",
+          "Points": "13"
+     },
+     "3": {
+          "Position": "3",
+          "Club_Name": "Liverpool",
+          "Games_Played": "5",
+          "Games_Won": "4",
+          "Games_Lost": "0",
+          "Goals_Scored": "12",
+          "Goals_Conceded": "4",
+          "Goal_difference": "8",
+          "Points": "13"
+     },
+     "4": {
+          "Position": "4",
+          "Club_Name": "Arsenal",
+          "Games_Played": "5",
+          "Games_Won": "4",
+          "Games_Lost": "0",
+          "Goals_Scored": "9",
+          "Goals_Conceded": "4",
+          "Goal_difference": "5",
+          "Points": "13"
+     },
+     "5": {
+          "Position": "5",
+          "Club_Name": "Brighton and Hove Albion",
+          "Games_Played": "5",
+          "Games_Won": "4",
+          "Games_Lost": "1",
+          "Goals_Scored": "15",
+          "Goals_Conceded": "7",
+          "Goal_difference": "8",
+          "Points": "12"
+     },
+     "6": {
+          "Position": "6",
+          "Club_Name": "West Ham United",
+          "Games_Played": "5",
+          "Games_Won": "3",
+          "Games_Lost": "1",
+          "Goals_Scored": "10",
+          "Goals_Conceded": "7",
+          "Goal_difference": "3",
+          "Points": "10"
+     },
+     "7": {
+          "Position": "7",
+          "Club_Name": "Aston Villa",
+          "Games_Played": "5",
+          "Games_Won": "3",
+          "Games_Lost": "2",
+          "Goals_Scored": "11",
+          "Goals_Conceded": "10",
+          "Goal_difference": "1",
+          "Points": "9"
+     },
+     "8": {
+          "Position": "8",
+          "Club_Name": "Nottingham Forest",
+          "Games_Played": "5",
+          "Games_Won": "2",
+          "Games_Lost": "2",
+          "Goals_Scored": "7",
+          "Goals_Conceded": "7",
+          "Goal_difference": "0",
+          "Points": "7"
+     },
+     "9": {
+          "Position": "9",
+          "Club_Name": "Crystal Palace",
+          "Games_Played": "5",
+          "Games_Won": "2",
+          "Games_Lost": "2",
+          "Goals_Scored": "6",
+          "Goals_Conceded": "7",
+          "Goal_difference": "-1",
+          "Points": "7"
+     },
+     "10": {
+          "Position": "10",
+          "Club_Name": "Fulham",
+          "Games_Played": "5",
+          "Games_Won": "2",
+          "Games_Lost": "2",
+          "Goals_Scored": "5",
+          "Goals_Conceded": "10",
+          "Goal_difference": "-5",
+          "Points": "7"
+     },
+     "11": {
+          "Position": "11",
+          "Club_Name": "Brentford",
+          "Games_Played": "5",
+          "Games_Won": "1",
+          "Games_Lost": "1",
+          "Goals_Scored": "8",
+          "Goals_Conceded": "6",
+          "Goal_difference": "2",
+          "Points": "6"
+     },
+     "12": {
+          "Position": "12",
+          "Club_Name": "Newcastle United",
+          "Games_Played": "5",
+          "Games_Won": "2",
+          "Games_Lost": "3",
+          "Goals_Scored": "8",
+          "Goals_Conceded": "7",
+          "Goal_difference": "1",
+          "Points": "6"
+     },
+     "13": {
+          "Position": "13",
+          "Club_Name": "Manchester United",
+          "Games_Played": "5",
+          "Games_Won": "2",
+          "Games_Lost": "3",
+          "Goals_Scored": "6",
+          "Goals_Conceded": "10",
+          "Goal_difference": "-4",
+          "Points": "6"
+     },
+     "14": {
+          "Position": "14",
+          "Club_Name": "Chelsea",
+          "Games_Played": "5",
+          "Games_Won": "1",
+          "Games_Lost": "2",
+          "Goals_Scored": "5",
+          "Goals_Conceded": "5",
+          "Goal_difference": "0",
+          "Points": "5"
+     },
+     "15": {
+          "Position": "15",
+          "Club_Name": "Bournemouth",
+          "Games_Played": "5",
+          "Games_Won": "0",
+          "Games_Lost": "2",
+          "Goals_Scored": "4",
+          "Goals_Conceded": "8",
+          "Goal_difference": "-4",
+          "Points": "3"
+     },
+     "16": {
+          "Position": "16",
+          "Club_Name": "Wolverhampton Wanderers",
+          "Games_Played": "5",
+          "Games_Won": "1",
+          "Games_Lost": "4",
+          "Goals_Scored": "5",
+          "Goals_Conceded": "11",
+          "Goal_difference": "-6",
+          "Points": "3"
+     },
+     "17": {
+          "Position": "17",
+          "Club_Name": "Sheffield United",
+          "Games_Played": "5",
+          "Games_Won": "0",
+          "Games_Lost": "4",
+          "Goals_Scored": "5",
+          "Goals_Conceded": "9",
+          "Goal_difference": "-4",
+          "Points": "1"
+     },
+     "18": {
+          "Position": "18",
+          "Club_Name": "Everton",
+          "Games_Played": "5",
+          "Games_Won": "0",
+          "Games_Lost": "4",
+          "Goals_Scored": "2",
+          "Goals_Conceded": "9",
+          "Goal_difference": "-7",
+          "Points": "1"
+     },
+     "19": {
+          "Position": "19",
+          "Club_Name": "Burnley",
+          "Games_Played": "4",
+          "Games_Won": "0",
+          "Games_Lost": "3",
+          "Goals_Scored": "4",
+          "Goals_Conceded": "12",
+          "Goal_difference": "-8",
+          "Points": "1"
+     },
+     "20": {
+          "Position": "20",
+          "Club_Name": "Luton Town",
+          "Games_Played": "4",
+          "Games_Won": "0",
+          "Games_Lost": "4",
+          "Goals_Scored": "2",
+          "Goals_Conceded": "10",
+          "Goal_difference": "-8",
+          "Points": "0"
+     }
+}
