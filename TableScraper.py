@@ -66,6 +66,7 @@ class Scraper:
         return self.table
 
     def to_json(self, gw: int):
+        """Method to convert table information to JSON format"""
         self.club_content: dict = {}
 
         for i in range(20):
